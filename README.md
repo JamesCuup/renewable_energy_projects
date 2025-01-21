@@ -1,0 +1,1 @@
+Welcome to the Renewable Energy Projects repository! This is a collection of projects, tools, and resources focused on promoting sustainable energy solutions and exploring renewable energy technologies.
